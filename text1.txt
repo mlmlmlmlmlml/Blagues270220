@@ -3,3 +3,5 @@ Bonjour2
 Bonjour3
 Bonjour4
 Hello World !
+Nous sommes en vacances.
+
